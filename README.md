@@ -22,13 +22,13 @@
 - [MongoDB](https://mega.nz/folder/yK4kzQgA#ssed6-g1Tc7kC5idRysXaQ)
 ## ⚔ Game Development
 - [Unity](https://mega.nz/folder/PTJ32aIQ#J3f3iW-y-nW3UmG9UgnmBg)
-## Mobile Development
+## 📱 Mobile Development
 - [Flutter & Dart](https://mega.nz/folder/aWBEzbSA#Rp76Vu3nEcqP8qn9TPa5Og)
-## Data Structure & Algorithm
+## 🏄 Data Structure & Algorithm
 - [โครงสร้างข้อมูลและอัลกอริทึมด้วยภาษา Java](https://mega.nz/folder/mLg2zC4T#1ZGWeyio1ah_WpAunQzHYQ)
-## Data Science & Machine Learning (Python)
+## 🎯 Data Science & Machine Learning (Python)
 - [Numpy](https://mega.nz/file/eXQWAJSa#CQfeknZs-dVs__M-QcxWKgDlIO4-X0VYdehbGezxwO4)
 - [Pandas](https://mega.nz/file/veYEVBRL#EAF15zjUlONsS2SkwhjGH9Fs7LW74lhbNE65EkRWb7I)
 - [Matplotib](https://mega.nz/file/2aJ2FbIQ#88eI_YB7GqsV_scDZmZ-bsn4oNKDK6FKydR8IbhfDvU)
-## Image Processing (Python)
+## 🏜 Image Processing (Python)
 - [OpenCV](https://mega.nz/folder/GXwiVbrL#mryk-YXYBNdRxUj9IJKXLg)
