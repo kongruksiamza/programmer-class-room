@@ -5,12 +5,14 @@
 - [Smart Contract & Solidity เบื้องต้น](https://mega.nz/folder/KCgmXL7D#6P0MWGJyVUU8hxUgXUEbFw)
 ## Programming
 
-## Web Development
+## Web Development (Front-end)
+
+## Web Development (Backend-end)
+
+## Database
 
 ## Game Development
 
 ## Mobile Development
-
-## Database
 
 ## Data Structure & Algorithm
