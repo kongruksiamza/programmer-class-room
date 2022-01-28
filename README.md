@@ -6,6 +6,7 @@
 ## 💻 Programming
 - [เขียนโปรแกรมภาษา Java](https://mega.nz/folder/zHIUDRTZ#yg3-xa0c4VrPgbOw7zVA7g)
 - [เขียนโปรแกรมภาษา C#](https://mega.nz/folder/rK4UxK5b#Hi3GWeWo7V_uLoJYsZ8UQg)
+- [เขียนโปรแกรมภาษา C++](https://mega.nz/folder/3S4AWTpT#nmP9fpETvcCNU_28ZPC2ew)
 - [เขียนโปรแกรมเชิงวัตถุด้วยภาษา Python](https://mega.nz/folder/fbRywLIZ#HSFP9Fy5hjRXodbESPLiVg)
 ## 🐱 Web Development (Front-end)
 - [HTML5](https://mega.nz/file/eSRWiL4J#ZO_pjA0xXaS2EqAdAC3OPZ9Wm15KZQpi2lcDGCDN5ZQ)
