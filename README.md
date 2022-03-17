@@ -35,3 +35,11 @@
 - [Matplotib](https://mega.nz/file/2aJ2FbIQ#88eI_YB7GqsV_scDZmZ-bsn4oNKDK6FKydR8IbhfDvU)
 ## 🏜 Image Processing (Python)
 - [OpenCV](https://mega.nz/folder/GXwiVbrL#mryk-YXYBNdRxUj9IJKXLg)
+
+# 📖 Support & Sponsor
+## 🕵 คอร์สเรียน
+- [Udemy](https://www.udemy.com/user/kong-ruksiam/)
+
+## 🧥 อุดหนุนเสื้อโค้ท เสื้อคอเต่า (Sponsor):
+- [ร้านค้า](https://www.instagram.com/coat2namsshop/)
+
