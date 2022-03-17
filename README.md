@@ -36,10 +36,9 @@
 ## 🏜 Image Processing (Python)
 - [OpenCV](https://mega.nz/folder/GXwiVbrL#mryk-YXYBNdRxUj9IJKXLg)
 
-# 📖 Support & Sponsor
-## 🕵 คอร์สเรียน
+## 🕵 คอร์สเรียนบน Udemy
 - [Udemy](https://www.udemy.com/user/kong-ruksiam/)
-
+- 
 ## 🧥 อุดหนุนเสื้อโค้ท เสื้อคอเต่า (Sponsor):
-- [ร้านค้า](https://www.instagram.com/coat2namsshop/)
+- [ร้านเสื้อโค้ท](https://www.instagram.com/coat2namsshop/)
 
