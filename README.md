@@ -18,7 +18,7 @@
 - [Vue.js](https://mega.nz/folder/aTAHxYiD#3JlaJVBJilhhYn9-GXEPYw)
 - [Bootstrap 5](https://mega.nz/folder/bahSyDRL#Cen2eE_96Y31k3OmMbGPzA)
 - [Tailwind CSS](https://mega.nz/folder/6PZUCZLD#g_RDAiywyEHt3QOnSS-CUg)
-- [TypeScript](https://mega.nz/folder/rGAylJKb#wEPf3Qhzm6IrtsJesGIDTQ)
+- [TypeScript (JavaScript With Syntax For Types)](https://mega.nz/folder/rGAylJKb#wEPf3Qhzm6IrtsJesGIDTQ)
 
 ## 🛕 Web Development (Back-end)
 - [Node.js](https://mega.nz/folder/KXQVjSqC#fKgNdON_mRllaDzAQC1kTA)
