@@ -44,8 +44,9 @@
 - [Git & GitHub](https://mega.nz/folder/TGAmDYCQ#Ect7rgNkLE_-VfzZutnmGQ)
 - [Firebase](https://mega.nz/folder/vfQxXT5Z#P5sE2-QU1VIT0l1_SP_Jcg)
 
-## 🕵 คอร์สเรียนบน Udemy
-- [Udemy](https://www.udemy.com/user/kong-ruksiam/)
-## 🧥 อุดหนุนเสื้อโค้ท เสื้อคอเต่า (Sponsor)
-- [ร้านเสื้อโค้ท](https://www.instagram.com/coat2namsshop/)
+## 💖 ช่องทางการสนับสนุน
+- [🎓 คอร์สเรียนบน Udemy](https://www.udemy.com/user/kong-ruksiam/)
+- [🕵 สมัครเป็นสมาชิกในช่องยูทูป](https://www.youtube.com/c/KongRuksiamOfficial/join)
+- [🛒 ซื้อของผ่าน Shopee](https://shope.ee/3plB9kVnPd)
+- [🧥 ร้านเสื้อโค้ท](https://www.instagram.com/coat2namsshop/)
 
