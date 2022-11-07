@@ -36,7 +36,7 @@
 ## 🎯 Data Science & Machine Learning (Python)
 - [Numpy](https://mega.nz/file/eXQWAJSa#CQfeknZs-dVs__M-QcxWKgDlIO4-X0VYdehbGezxwO4)
 - [Pandas](https://mega.nz/file/veYEVBRL#EAF15zjUlONsS2SkwhjGH9Fs7LW74lhbNE65EkRWb7I)
-- [Matplotib](https://mega.nz/file/2aJ2FbIQ#88eI_YB7GqsV_scDZmZ-bsn4oNKDK6FKydR8IbhfDvU)
+- [Matplotlib](https://mega.nz/file/2aJ2FbIQ#88eI_YB7GqsV_scDZmZ-bsn4oNKDK6FKydR8IbhfDvU)
 ## 🏜 Image Processing (Python)
 - [OpenCV](https://mega.nz/folder/GXwiVbrL#mryk-YXYBNdRxUj9IJKXLg)
 
