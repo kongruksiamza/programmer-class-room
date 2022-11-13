@@ -27,7 +27,7 @@
 ## 👒 Database
 - [MongoDB](https://mega.nz/folder/yK4kzQgA#ssed6-g1Tc7kC5idRysXaQ)
 ## ⚔ Game Development
-- [Unity](https://mega.nz/folder/PTJ32aIQ#J3f3iW-y-nW3UmG9UgnmBg)
+- [Unity 3D & 2D](https://mega.nz/folder/PTJ32aIQ#J3f3iW-y-nW3UmG9UgnmBg)
 - [Unreal Engine 5](https://mega.nz/folder/XO5WhYwL#_rTkDn0h1QBUc8pGiWWb3g)
 ## 📱 Mobile Development
 - [Flutter & Dart](https://mega.nz/folder/aWBEzbSA#Rp76Vu3nEcqP8qn9TPa5Og)
