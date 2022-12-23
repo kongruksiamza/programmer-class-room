@@ -25,6 +25,7 @@
 - [Node.js](https://mega.nz/folder/KXQVjSqC#fKgNdON_mRllaDzAQC1kTA)
 - [Laravel Framework 8.x](https://mega.nz/folder/PK5TlCKT#LsJ8bHUtrKl8j109EGcCmQ)
 - [PHP เบื้องต้น](https://mega.nz/folder/LCJyCJyZ#rhcwWkqww8Zcx85KAySVfw)
+- [Django Framework](https://mega.nz/folder/rSJ0kAJK#zNep1PatiC2tGn0XASaRIg)
 ## 👒 Database
 - [MongoDB](https://mega.nz/folder/yK4kzQgA#ssed6-g1Tc7kC5idRysXaQ)
 ## ⚔ Game Development
