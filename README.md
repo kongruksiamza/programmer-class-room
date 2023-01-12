@@ -26,6 +26,7 @@
 - [PHP](https://mega.nz/folder/LCJyCJyZ#rhcwWkqww8Zcx85KAySVfw)
 - [Laravel Framework 8.x](https://mega.nz/folder/PK5TlCKT#LsJ8bHUtrKl8j109EGcCmQ)
 - [Django Framework](https://mega.nz/folder/rSJ0kAJK#zNep1PatiC2tGn0XASaRIg)
+- [ASP.NET Core MVC (.NET7)](https://mega.nz/folder/TDQijLpT#9LfySaZJ7RRBXOvmBYBR9Q)
 ## 👒 Database
 - [MongoDB](https://mega.nz/folder/yK4kzQgA#ssed6-g1Tc7kC5idRysXaQ)
 ## ⚔ Game Development
