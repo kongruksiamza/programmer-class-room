@@ -19,14 +19,18 @@
 - [Vue.js](https://mega.nz/folder/aTAHxYiD#3JlaJVBJilhhYn9-GXEPYw)
 - [Bootstrap 5](https://mega.nz/folder/bahSyDRL#Cen2eE_96Y31k3OmMbGPzA)
 - [Tailwind CSS](https://mega.nz/folder/6PZUCZLD#g_RDAiywyEHt3QOnSS-CUg)
-- [TypeScript (JavaScript With Syntax For Types)](https://mega.nz/folder/rGAylJKb#wEPf3Qhzm6IrtsJesGIDTQ)
 
-## 🛕 Web Development (Back-end)
+## 🧲 Web Development (Back-end)
 - [Node.js](https://mega.nz/folder/KXQVjSqC#fKgNdON_mRllaDzAQC1kTA)
 - [PHP](https://mega.nz/folder/LCJyCJyZ#rhcwWkqww8Zcx85KAySVfw)
 - [Laravel Framework 8.x](https://mega.nz/folder/PK5TlCKT#LsJ8bHUtrKl8j109EGcCmQ)
 - [Django Framework](https://mega.nz/folder/rSJ0kAJK#zNep1PatiC2tGn0XASaRIg)
 - [ASP.NET Core MVC (.NET7)](https://mega.nz/folder/TDQijLpT#9LfySaZJ7RRBXOvmBYBR9Q)
+
+## 🔍 Web Development (Other)
+- [Next.js (React Web Framework)](https://mega.nz/folder/THYEzRaJ#r7gfAipz4bCqenC8lqilyA)
+- [TypeScript (JavaScript With Syntax For Types)](https://mega.nz/folder/rGAylJKb#wEPf3Qhzm6IrtsJesGIDTQ)
+
 ## 👒 Database
 - [MongoDB](https://mega.nz/folder/yK4kzQgA#ssed6-g1Tc7kC5idRysXaQ)
 ## ⚔ Game Development
@@ -35,12 +39,15 @@
 - [Pygame](https://mega.nz/folder/nGx1iT6R#vR2A1PVClkVKacFO2rW_nw)
 ## 📱 Mobile Development
 - [Flutter & Dart](https://mega.nz/folder/aWBEzbSA#Rp76Vu3nEcqP8qn9TPa5Og)
+
 ## 🏄 Data Structure & Algorithm
 - [โครงสร้างข้อมูลและอัลกอริทึมด้วยภาษา Java](https://mega.nz/folder/mLg2zC4T#1ZGWeyio1ah_WpAunQzHYQ)
+
 ## 🎯 Data Science & Machine Learning (Python)
 - [Numpy](https://mega.nz/file/eXQWAJSa#CQfeknZs-dVs__M-QcxWKgDlIO4-X0VYdehbGezxwO4)
 - [Pandas](https://mega.nz/file/veYEVBRL#EAF15zjUlONsS2SkwhjGH9Fs7LW74lhbNE65EkRWb7I)
 - [Matplotlib](https://mega.nz/file/2aJ2FbIQ#88eI_YB7GqsV_scDZmZ-bsn4oNKDK6FKydR8IbhfDvU)
+
 ## 🏜 Image Processing (Python)
 - [OpenCV](https://mega.nz/folder/GXwiVbrL#mryk-YXYBNdRxUj9IJKXLg)
 
