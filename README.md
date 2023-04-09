@@ -56,7 +56,7 @@
 - [Firebase](https://mega.nz/folder/vfQxXT5Z#P5sE2-QU1VIT0l1_SP_Jcg)
 
 ## 💖 ช่องทางการสนับสนุน
-- [🎓 คอร์สเรียนบน Udemy](https://www.udemy.com/user/kong-ruksiam/)
+- [🎓 คอร์สเรียนบน Udemy (329 บาท/คอร์ส)](https://www.facebook.com/100066507312209/posts/563122949247944/?mibextid=cr9u03)
 - [🕵 สมัครเป็นสมาชิกในช่องยูทูป](https://www.youtube.com/c/KongRuksiamOfficial/join)
 - [🛒 ซื้อของผ่าน Shopee](https://shope.ee/3plB9kVnPd)
 - [🧥 ร้านเสื้อโค้ท](https://www.instagram.com/coat2namsshop/)
