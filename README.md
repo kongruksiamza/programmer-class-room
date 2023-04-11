@@ -29,6 +29,7 @@
 
 ## 🔍 Web Development (Other)
 - [Next.js (React Web Framework)](https://mega.nz/folder/THYEzRaJ#r7gfAipz4bCqenC8lqilyA)
+- [Nuxt.js (Vue.js Framework)](https://mega.nz/folder/2K5QCT4A#hd9VaCwvUZ-YL02TMILK7Q)
 - [TypeScript (JavaScript With Syntax For Types)](https://mega.nz/folder/rGAylJKb#wEPf3Qhzm6IrtsJesGIDTQ)
 
 ## 👒 Database
