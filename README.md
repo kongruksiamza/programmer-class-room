@@ -31,6 +31,7 @@
 - [Next.js (React Web Framework)](https://mega.nz/folder/THYEzRaJ#r7gfAipz4bCqenC8lqilyA)
 - [Nuxt.js (Vue.js Framework)](https://mega.nz/folder/2K5QCT4A#hd9VaCwvUZ-YL02TMILK7Q)
 - [TypeScript (JavaScript With Syntax For Types)](https://mega.nz/folder/rGAylJKb#wEPf3Qhzm6IrtsJesGIDTQ)
+- [เขียนโปรแกรมเชิงวัตถุด้วย JavaScript](https://mega.nz/folder/3PQiTapI#6uyRUOtgFGVSnq3aCVE-iQ)
 
 ## 👒 Database
 - [MongoDB](https://mega.nz/folder/yK4kzQgA#ssed6-g1Tc7kC5idRysXaQ)
