@@ -43,7 +43,7 @@
 - [Flutter & Dart](https://mega.nz/folder/aWBEzbSA#Rp76Vu3nEcqP8qn9TPa5Og)
 
 ## 🏄 Data Structure & Algorithm
-- [โครงสร้างข้อมูลและอัลกอริทึมด้วยภาษา Java](https://mega.nz/folder/mLg2zC4T#1ZGWeyio1ah_WpAunQzHYQ)
+- [โครงสร้างข้อมูลและอัลกอริทึมด้วยภาษา JavaScript](https://mega.nz/folder/KOR1DQaY#PrDYp7hmNU5jF-gqIQULVw)
 
 ## 🎯 Data Science & Machine Learning (Python)
 - [Numpy](https://mega.nz/file/eXQWAJSa#CQfeknZs-dVs__M-QcxWKgDlIO4-X0VYdehbGezxwO4)
