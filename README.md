@@ -1,8 +1,8 @@
 # 📖 เอกสารประกอบการสอน (PDF)
 
 ## 🔏 Blockchain & Smart Contract
-- [Blockchain เบื้องต้น](https://mega.nz/folder/rGZUjTiA#md0UpWEQLdYUVqljFn6YSQ)
-- [Smart Contract & Solidity เบื้องต้น](https://mega.nz/folder/KCgmXL7D#6P0MWGJyVUU8hxUgXUEbFw)
+- [Blockchain](https://mega.nz/folder/rGZUjTiA#md0UpWEQLdYUVqljFn6YSQ)
+- [Smart Contract & Solidity](https://mega.nz/folder/KCgmXL7D#6P0MWGJyVUU8hxUgXUEbFw)
 ## 💻 Programming
 - [เขียนโปรแกรมภาษา Java](https://mega.nz/folder/zHIUDRTZ#yg3-xa0c4VrPgbOw7zVA7g)
 - [เขียนโปรแกรมภาษา C#](https://mega.nz/folder/rK4UxK5b#Hi3GWeWo7V_uLoJYsZ8UQg)
@@ -45,17 +45,18 @@
 ## 🏄 Data Structure & Algorithm
 - [โครงสร้างข้อมูลและอัลกอริทึมด้วยภาษา JavaScript](https://mega.nz/folder/KOR1DQaY#PrDYp7hmNU5jF-gqIQULVw)
 
-## 🎯 Data Science & Machine Learning (Python)
+## 🎯 Data Science & Machine Learning
 - [Numpy](https://mega.nz/file/eXQWAJSa#CQfeknZs-dVs__M-QcxWKgDlIO4-X0VYdehbGezxwO4)
 - [Pandas](https://mega.nz/file/veYEVBRL#EAF15zjUlONsS2SkwhjGH9Fs7LW74lhbNE65EkRWb7I)
 - [Matplotlib](https://mega.nz/file/2aJ2FbIQ#88eI_YB7GqsV_scDZmZ-bsn4oNKDK6FKydR8IbhfDvU)
 
-## 🏜 Image Processing (Python)
+## 🏜 Image Processing
 - [OpenCV](https://mega.nz/folder/GXwiVbrL#mryk-YXYBNdRxUj9IJKXLg)
 
-## 🤖 Git & Firebase
+## 🤖 อื่นๆ 
 - [Git & GitHub](https://mega.nz/folder/TGAmDYCQ#Ect7rgNkLE_-VfzZutnmGQ)
 - [Firebase](https://mega.nz/folder/vfQxXT5Z#P5sE2-QU1VIT0l1_SP_Jcg)
+- [JSON](https://mega.nz/folder/2CQxGaSB#wcBqw4Eh8UrXiSSyi8qRzw)
 
 ## 💖 ช่องทางการสนับสนุน
 - [🎓 คอร์สเรียนบน Udemy (329 บาท/คอร์ส)](https://www.facebook.com/100066507312209/posts/563122949247944/?mibextid=cr9u03)
