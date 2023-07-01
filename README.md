@@ -59,7 +59,7 @@
 - [JSON](https://mega.nz/folder/2CQxGaSB#wcBqw4Eh8UrXiSSyi8qRzw)
 
 ## 💖 ช่องทางการสนับสนุน
-- [🎓 คอร์สเรียนบน Udemy (329 บาท/คอร์ส)](https://www.facebook.com/100066507312209/posts/563122949247944/?mibextid=cr9u03)
+- [🎓 คอร์สเรียนบน Udemy (329 บาท/คอร์ส)](https://github.com/kongruksiamza/udemy-course)
 - [🕵 สมัครเป็นสมาชิกในช่องยูทูป](https://www.youtube.com/c/KongRuksiamOfficial/join)
 - [🛒 ซื้อของผ่าน Shopee](https://shope.ee/3plB9kVnPd)
 
