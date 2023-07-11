@@ -63,7 +63,7 @@
 - [🛒 ซื้อของผ่าน Shopee](https://shope.ee/3plB9kVnPd)
 
 ## 💓 ติดตามช่อง Youtube ในเครือของเรา
-![logo]()
+![logo](https://github.com/kongruksiamza/programmer-class-room/blob/main/channel.PNG?raw=true)
 - [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial)
 - [KongRuksiam (เทคนิคการเขียนโปรแกรม)](https://www.youtube.com/@KongRuksiamTutorial)
 
