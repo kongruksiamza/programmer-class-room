@@ -58,8 +58,12 @@
 - [Firebase](https://mega.nz/folder/vfQxXT5Z#P5sE2-QU1VIT0l1_SP_Jcg)
 - [JSON](https://mega.nz/folder/2CQxGaSB#wcBqw4Eh8UrXiSSyi8qRzw)
 
-## 💖 ช่องทางการสนับสนุน
+## ☕ ช่องทางการสนับสนุน
 - [🎓 คอร์สเรียนบน Udemy (329 บาท/คอร์ส)](https://github.com/kongruksiamza/udemy-course)
-- [🕵 สมัครเป็นสมาชิกในช่องยูทูป](https://www.youtube.com/c/KongRuksiamOfficial/join)
 - [🛒 ซื้อของผ่าน Shopee](https://shope.ee/3plB9kVnPd)
+
+## 💓 ติดตามช่อง Youtube ในเครือของเรา
+![logo]()
+- [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial)
+- [KongRuksiam (เทคนิคการเขียนโปรแกรม)](https://www.youtube.com/@KongRuksiamTutorial)
 
