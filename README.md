@@ -3,62 +3,63 @@
 โดยใช้ Decryption Key ที่ประกาศในแท็ปชุมชน Youtube ในการเข้าถึงข้อมูลเอกสารทั้งหมด (อัปเดต 18/08/2566)
 
 ## 🔏 Blockchain & Smart Contract
-- [Blockchain](https://mega.nz/folder/rGZUjTiA#md0UpWEQLdYUVqljFn6YSQ)
-- [Smart Contract & Solidity](https://mega.nz/folder/KCgmXL7D#6P0MWGJyVUU8hxUgXUEbFw)
+- [Blockchain]()
+- [Smart Contract & Solidity](https://mega.nz/folder/rGg0USIa)
 ## 💻 Programming
-- [เขียนโปรแกรมภาษา Java](https://mega.nz/folder/zHIUDRTZ#yg3-xa0c4VrPgbOw7zVA7g)
-- [เขียนโปรแกรมภาษา C#](https://mega.nz/folder/rK4UxK5b#Hi3GWeWo7V_uLoJYsZ8UQg)
-- [เขียนโปรแกรมภาษา C++](https://mega.nz/folder/3S4AWTpT#nmP9fpETvcCNU_28ZPC2ew)
-- [เขียนโปรแกรมเชิงวัตถุด้วยภาษา Python (OOP)](https://mega.nz/folder/fbRywLIZ#HSFP9Fy5hjRXodbESPLiVg)
-- [เขียนโปรแกรมเชิงวัตถุด้วยภาษา Java (OOP)](https://mega.nz/file/CDIGTTTL#fPgHihDjQSQPODsA1oITkvSBwt3Xw5WDZtZ8ncxfygs)
-- [เขียนโปรแกรมเชิงวัตถุด้วย JavaScript (OOP)](https://mega.nz/folder/3PQiTapI#6uyRUOtgFGVSnq3aCVE-iQ)
-- [เขียนโปรแกรมภาษา Go](https://mega.nz/file/SHpS0KCC#7IH4_QGBrHmblf1kmJuIKfQ5NZnxct5DL2QSKxbfug8)
+- [เขียนโปรแกรมภาษา Java](https://mega.nz/folder/rGg0USIa)
+- [เขียนโปรแกรมภาษา C](https://mega.nz/folder/rGg0USIa)
+- [เขียนโปรแกรมภาษา C#](https://mega.nz/folder/rGg0USIa)
+- [เขียนโปรแกรมภาษา C++](https://mega.nz/folder/rGg0USIa)
+- [เขียนโปรแกรมเชิงวัตถุด้วยภาษา Python (OOP)](https://mega.nz/folder/rGg0USIa)
+- [เขียนโปรแกรมเชิงวัตถุด้วยภาษา Java (OOP)](https://mega.nz/folder/rGg0USIa)
+- [เขียนโปรแกรมเชิงวัตถุด้วย JavaScript (OOP)](https://mega.nz/folder/rGg0USIa)
+- [เขียนโปรแกรมภาษา Go]()
 ## 🐱 Web Development (Front-end)
-- [HTML5](https://mega.nz/file/eSRWiL4J#ZO_pjA0xXaS2EqAdAC3OPZ9Wm15KZQpi2lcDGCDN5ZQ)
-- [CSS3](https://mega.nz/file/uK5kEJBC#J4YMa5Ckz7z9t4oJnR4za9l4J790avqCXFVu8Q-RjG4)
-- [JavaScript](https://mega.nz/file/eKZA0ZgC#vYs6Dy_LeWYCxXUG9MIDnE3I52hlwFuv20Ahqr9QZI0)
-- [JavaScript ES6 (ECMAScript 6)](https://mega.nz/file/mbgSVboR#XDIS_jTVqrV8PUVpE4-wsLvaVJOrieI35C6h53QqpRI)
-- [React](https://mega.nz/folder/PHhUkDRZ#GHE_nTCilAKghO0OXeeWUQ)
-- [Vue.js](https://mega.nz/folder/aTAHxYiD#3JlaJVBJilhhYn9-GXEPYw)
-- [Bootstrap 5](https://mega.nz/folder/bahSyDRL#Cen2eE_96Y31k3OmMbGPzA)
-- [Tailwind CSS](https://mega.nz/folder/6PZUCZLD#g_RDAiywyEHt3QOnSS-CUg)
+- [HTML5](https://mega.nz/folder/rGg0USIa)
+- [CSS3](https://mega.nz/folder/rGg0USIa)
+- [JavaScript](https://mega.nz/folder/rGg0USIa)
+- [JavaScript ES6 (ECMAScript 6)](https://mega.nz/folder/rGg0USIa)
+- [React 17](https://mega.nz/folder/rGg0USIa)
+- [Vue.js](https://mega.nz/folder/rGg0USIa)
+- [Bootstrap 5](https://mega.nz/folder/rGg0USIa)
+- [Tailwind CSS](https://mega.nz/folder/rGg0USIa)
 
 ## 🧲 Web Development (Back-end)
-- [Node.js](https://mega.nz/folder/KXQVjSqC#fKgNdON_mRllaDzAQC1kTA)
-- [PHP](https://mega.nz/folder/LCJyCJyZ#rhcwWkqww8Zcx85KAySVfw)
-- [Laravel Framework 8.x](https://mega.nz/folder/PK5TlCKT#LsJ8bHUtrKl8j109EGcCmQ)
-- [Django Framework](https://mega.nz/folder/rSJ0kAJK#zNep1PatiC2tGn0XASaRIg)
-- [ASP.NET Core MVC (.NET7)](https://mega.nz/folder/TDQijLpT#9LfySaZJ7RRBXOvmBYBR9Q)
+- [Node.js](https://mega.nz/folder/rGg0USIa)
+- [PHP](https://mega.nz/folder/rGg0USIa)
+- [Laravel Framework 8.x](https://mega.nz/folder/rGg0USIa)
+- [Django Framework](https://mega.nz/folder/rGg0USIa)
+- [ASP.NET Core MVC (.NET7)](https://mega.nz/folder/rGg0USIa)
 
 ## 🔍 Web Development (Other)
-- [Next.js (React Web Framework)](https://mega.nz/folder/THYEzRaJ#r7gfAipz4bCqenC8lqilyA)
-- [Nuxt.js (Vue.js Framework)](https://mega.nz/folder/2K5QCT4A#hd9VaCwvUZ-YL02TMILK7Q)
-- [TypeScript (JavaScript With Syntax For Types)](https://mega.nz/folder/rGAylJKb#wEPf3Qhzm6IrtsJesGIDTQ)
+- [Next.js (React Web Framework)](https://mega.nz/folder/rGg0USIa)
+- [Nuxt.js (Vue.js Framework)](https://mega.nz/folder/rGg0USIa)
+- [TypeScript (JavaScript With Syntax For Types)](https://mega.nz/folder/rGg0USIa)
 
 ## 👒 Database
-- [MongoDB](https://mega.nz/folder/yK4kzQgA#ssed6-g1Tc7kC5idRysXaQ)
+- [MongoDB](https://mega.nz/folder/rGg0USIa)
 ## ⚔ Game Development
-- [Unity 3D & 2D](https://mega.nz/folder/PTJ32aIQ#J3f3iW-y-nW3UmG9UgnmBg)
-- [Unreal Engine 5](https://mega.nz/folder/XO5WhYwL#_rTkDn0h1QBUc8pGiWWb3g)
-- [Pygame](https://mega.nz/folder/nGx1iT6R#vR2A1PVClkVKacFO2rW_nw)
+- [Unity 3D & 2D](https://mega.nz/folder/rGg0USIa)
+- [Unreal Engine 5](https://mega.nz/folder/rGg0USIa)
+- [Pygame](https://mega.nz/folder/rGg0USIa)
 ## 📱 Mobile Development
-- [Flutter & Dart](https://mega.nz/folder/aWBEzbSA#Rp76Vu3nEcqP8qn9TPa5Og)
+- [Flutter & Dart](https://mega.nz/folder/rGg0USIa)
 
 ## 🏄 Data Structure & Algorithm
-- [โครงสร้างข้อมูลและอัลกอริทึมด้วยภาษา JavaScript](https://mega.nz/folder/KOR1DQaY#PrDYp7hmNU5jF-gqIQULVw)
+- [โครงสร้างข้อมูลและอัลกอริทึมด้วยภาษา JavaScript](https://mega.nz/folder/rGg0USIa)
 
 ## 🎯 Data Science & Machine Learning
-- [Numpy](https://mega.nz/file/eXQWAJSa#CQfeknZs-dVs__M-QcxWKgDlIO4-X0VYdehbGezxwO4)
-- [Pandas](https://mega.nz/file/veYEVBRL#EAF15zjUlONsS2SkwhjGH9Fs7LW74lhbNE65EkRWb7I)
-- [Matplotlib](https://mega.nz/file/2aJ2FbIQ#88eI_YB7GqsV_scDZmZ-bsn4oNKDK6FKydR8IbhfDvU)
+- [Numpy](https://mega.nz/folder/rGg0USIa)
+- [Pandas](https://mega.nz/folder/rGg0USIa)
+- [Matplotlib](https://mega.nz/folder/rGg0USIa)
 
 ## 🏜 Image Processing
-- [OpenCV](https://mega.nz/folder/GXwiVbrL#mryk-YXYBNdRxUj9IJKXLg)
+- [OpenCV](https://mega.nz/folder/rGg0USIa)
 
 ## 🤖 อื่นๆ 
-- [Git & GitHub](https://mega.nz/folder/TGAmDYCQ#Ect7rgNkLE_-VfzZutnmGQ)
-- [Firebase](https://mega.nz/folder/vfQxXT5Z#P5sE2-QU1VIT0l1_SP_Jcg)
-- [JSON](https://mega.nz/folder/2CQxGaSB#wcBqw4Eh8UrXiSSyi8qRzw)
+- [Git & GitHub](https://mega.nz/folder/rGg0USIa)
+- [Firebase](https://mega.nz/folder/rGg0USIa)
+- [JSON](https://mega.nz/folder/rGg0USIa)
 
 ## ☕ ช่องทางการสนับสนุน
 - [🎓 คอร์สเรียนบน Udemy](https://github.com/kongruksiamza/udemy-course)
