@@ -3,7 +3,7 @@
 โดยใช้ **คีย์ถอดรหัสลับ (Decryption Key)** ที่ประกาศในแท็ปชุมชน Youtube ในการเข้าถึงข้อมูลเอกสารทั้งหมด (อัปเดต 18/08/2566)
 
 ## 🔏 Blockchain & Smart Contract
-- [Blockchain]()
+- [Blockchain](https://mega.nz/folder/rGg0USIa)
 - [Smart Contract & Solidity](https://mega.nz/folder/rGg0USIa)
 ## 💻 Programming
 - [เขียนโปรแกรมภาษา Java](https://mega.nz/folder/rGg0USIa)
