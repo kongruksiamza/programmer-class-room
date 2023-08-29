@@ -4,9 +4,9 @@
 ที่ประกาศในแท็ปชุมชน Youtube และแท็ป Supporters Facebook ในการเข้าถึงข้อมูลเอกสารทั้งหมด
 
 ## 👨‍💻 สมัครสมาชิกเพื่อรับคีย์ถอดรหัส (เลือกเพียง 1 ช่องทาง)
-- [KongRuksiam Official (ระดับ FanClub)](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w/join)
-- [KongRuksiam (ระดับ แฟนตัวยง)](https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/join)
-- [Facebook (Supporters)](https://www.facebook.com/becomesupporter/KongRuksiamTutorial/)
+- [KongRuksiam Official](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w/join) **(สมาชิกระดับ FanClub ขึ้นไป)**
+- [KongRuksiam](https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/join) **(สมาชิกระดับ แฟนตัวยง)**
+- [Facebook](https://www.facebook.com/becomesupporter/KongRuksiamTutorial/) **(Supporters)**
 
 
 ## 🔏 Blockchain & Smart Contract
