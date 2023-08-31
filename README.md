@@ -5,7 +5,7 @@
 
 ## 👨‍💻 สมัครสมาชิกเพื่อรับคีย์ถอดรหัส (เลือกเพียง 1 ช่องทาง)
 - [KongRuksiam Official](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w/join) **(ระดับ FanClub ขึ้นไป)**
-- [KongRuksiam](https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/join) **(ระดับ แฟนตัวยง)**
+- [KongRuksiam Tutorial](https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/join) **(ระดับ แฟนตัวยง)**
 - [Facebook](https://www.facebook.com/becomesupporter/KongRuksiamTutorial/) **(Supporters)**
 
 
@@ -74,5 +74,5 @@
 
 ## 💓 ช่อง Youtube ในเครือของเรา
 - [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial)
-- [KongRuksiam (เทคนิคการเขียนโปรแกรม)](https://www.youtube.com/@KongRuksiamTutorial)
+- [KongRuksiam Tutorial](https://www.youtube.com/@KongRuksiamTutorial)
 
