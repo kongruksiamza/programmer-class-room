@@ -65,6 +65,7 @@
 
 ## 🤖 Tools and Utilities 
 - [Git & GitHub](https://mega.nz/folder/rGg0USIa)
+- [Postman](https://mega.nz/folder/rGg0USIa)
 - [Firebase](https://mega.nz/folder/rGg0USIa)
 - [JSON](https://mega.nz/folder/rGg0USIa)
 
