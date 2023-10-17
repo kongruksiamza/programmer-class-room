@@ -37,6 +37,7 @@
 - [Node.js](https://mega.nz/folder/rGg0USIa)
 - [PHP](https://mega.nz/folder/rGg0USIa)
 - [Laravel Framework 8.x](https://mega.nz/folder/rGg0USIa)
+- [Laravel Framework 10.x](https://mega.nz/folder/rGg0USIa)
 - [Django Framework](https://mega.nz/folder/rGg0USIa)
 - [ASP.NET Core MVC (.NET7)](https://mega.nz/folder/rGg0USIa)
 
