@@ -79,4 +79,5 @@
 ## 💓 ช่อง Youtube ในเครือของเรา
 - [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial)
 - [KongRuksiam Tutorial](https://www.youtube.com/@KongRuksiamTutorial)
+- [กลุ่ม Facebook](https://www.facebook.com/groups/kongruksiamstudio)
 
