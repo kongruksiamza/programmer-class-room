@@ -14,6 +14,7 @@
 ## 🔏 Blockchain & Smart Contract
 - [Blockchain](https://mega.nz/folder/rGg0USIa)
 - [Smart Contract & Solidity](https://mega.nz/folder/rGg0USIa)
+  
 ## 💻 Programming
 - [เขียนโปรแกรมภาษา Java](https://mega.nz/folder/rGg0USIa)
 - [เขียนโปรแกรมภาษา C](https://mega.nz/folder/rGg0USIa)
@@ -22,7 +23,9 @@
 - [เขียนโปรแกรมเชิงวัตถุด้วยภาษา Python (OOP)](https://mega.nz/folder/rGg0USIa)
 - [เขียนโปรแกรมเชิงวัตถุด้วยภาษา Java (OOP)](https://mega.nz/folder/rGg0USIa)
 - [เขียนโปรแกรมเชิงวัตถุด้วย JavaScript (OOP)](https://mega.nz/folder/rGg0USIa)
-- [เขียนโปรแกรมภาษา Go]()
+- [เขียนโปรแกรมภาษา Go](https://mega.nz/folder/rGg0USIa)
+- [PyQt6 (Python GUI Framework)](https://mega.nz/folder/rGg0USIa)
+  
 ## 🐱 Web Development (Front-end)
 - [HTML5](https://mega.nz/folder/rGg0USIa)
 - [CSS3](https://mega.nz/folder/rGg0USIa)
@@ -52,6 +55,7 @@
 - [Unity 3D & 2D](https://mega.nz/folder/rGg0USIa)
 - [Unreal Engine 5](https://mega.nz/folder/rGg0USIa)
 - [Pygame](https://mega.nz/folder/rGg0USIa)
+  
 ## 📱 Mobile Development
 - [Flutter & Dart](https://mega.nz/folder/rGg0USIa)
 
