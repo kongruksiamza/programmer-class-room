@@ -53,6 +53,7 @@
 |4|   *Laravel Framework 10.x       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |5|   Django Framework 4.x       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |6|   ASP.NET Core MVC (.NET7)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|7|   Flask (Micro Web Framework)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🔍 Web Development (Other)
 |ลำดับที่| หัวข้อ | ดาวน์โหลด |
