@@ -112,5 +112,10 @@
 ## 💓 ช่อง Youtube ในเครือของเรา
 - [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial)
 - [KongRuksiam Tutorial](https://www.youtube.com/@KongRuksiamTutorial)
-- [กลุ่ม Facebook](https://www.facebook.com/groups/kongruksiamstudio)
 
+## 📢 ติดตามข่าวสารอื่นๆของเราได้ที่
+- [Facebook](https://www.facebook.com/KongRuksiamTutorial)
+- [TikTok](https://www.tiktok.com/@kongruksiamstudio)
+- [Instagram](https://www.instagram.com/kongruksiamstudio)
+- [Medium](https://medium.com/@kongruksiam)
+- [Blockdit](https://www.blockdit.com/kongruksiamtutorial)
