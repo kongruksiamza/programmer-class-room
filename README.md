@@ -11,6 +11,11 @@
 |KongRuksiam Official **(ระดับ FanClub ขึ้นไป)**|  100 บาท / เดือน      | [สมัครสมาชิก](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w/join) |
 |Facebook **(Supporters)**|    79 บาท / เดือน       | [สมัครสมาชิก](https://www.facebook.com/becomesupporter/KongRuksiamTutorial/)|
 
+## 🔑 หลังจากสมัครแล้วสามารถรับคีย์ถอดรหัสได้ที่
+|ช่องทาง|คีย์ถอดรหัสลับ (Decryption Key)|
+|:----:|:----:|
+|**Youtube (Community)**|[กดเข้ารับคีย์ถอดรหัส](https://www.youtube.com/post/UgkxuHBM_m8y1tzfums48iV9w6uHMg7Flsi9) |
+|**Facebook Supporters (ฮับสมาชิก)**|[กดเข้ารับคีย์ถอดรหัส](https://www.facebook.com/KongRuksiamTutorial/supporters)|
 
 ## 🔏 Blockchain & Smart Contract
 |ลำดับที่| หัวข้อ | ดาวน์โหลด |
