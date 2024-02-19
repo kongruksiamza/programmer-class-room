@@ -14,8 +14,8 @@
 ## 🔑 หลังจากสมัครแล้วสามารถรับคีย์ถอดรหัสได้ที่
 |ช่องทาง|คีย์ถอดรหัสลับ (Decryption Key)|
 |:----:|:----:|
-|**Youtube (Community)**|[กดเข้ารับคีย์ถอดรหัส](https://www.youtube.com/post/UgkxuHBM_m8y1tzfums48iV9w6uHMg7Flsi9) |
-|**Facebook Supporters (ฮับสมาชิก)**|[กดเข้ารับคีย์ถอดรหัส](https://www.facebook.com/KongRuksiamTutorial/supporters)|
+|**Youtube (Community)**|[เข้ารับคีย์ถอดรหัส](https://www.youtube.com/post/UgkxuHBM_m8y1tzfums48iV9w6uHMg7Flsi9) |
+|**Facebook Supporters (ฮับสมาชิก)**|[เข้ารับคีย์ถอดรหัส](https://www.facebook.com/KongRuksiamTutorial/supporters)|
 
 ## 🔏 Blockchain & Smart Contract
 |ลำดับที่| หัวข้อ | ดาวน์โหลด |
