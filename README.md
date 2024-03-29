@@ -15,7 +15,7 @@
 |ช่องทางการสมัคร|คีย์ถอดรหัสลับ (Decryption Key)|
 |:----:|:----:|
 |KongRuksiam Official **(ระดับ FanClub ขึ้นไป)**|[เข้ารับคีย์ถอดรหัส](https://www.youtube.com/post/UgkxuHBM_m8y1tzfums48iV9w6uHMg7Flsi9) |
-|Facebook **(Supporters)**|[เข้ารับคีย์ถอดรหัส](https://www.facebook.com/KongRuksiamTutorial/supporters)|
+|Facebook **(Supporters)**|[เข้ารับคีย์ถอดรหัส](https://www.facebook.com/KongRuksiamTutorial/posts/639844884909083)|
 
 ## 🔏 Blockchain & Smart Contract
 |ลำดับที่| หัวข้อ | ดาวน์โหลด |
