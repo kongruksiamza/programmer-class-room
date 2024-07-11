@@ -57,7 +57,7 @@
 |5|   ASP.NET Core MVC (.NET7)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |6|   Flask (Micro Web Framework)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
-## 🔍 Web Development (Other)
+## 🔍 Web Development (Framework)
 |ลำดับที่| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |1|   Next.js (React Web Framework)        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
