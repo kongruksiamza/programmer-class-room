@@ -69,7 +69,7 @@
 ## 👒 Database
 |Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg)|   MongoDB        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg)|   MongoDB        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## ⚔ Game Development
 |Icons| หัวข้อ | ดาวน์โหลด |
@@ -90,24 +90,24 @@
 |![image](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)|   โครงสร้างข้อมูลและอัลกอริทึมด้วยภาษา JavaScript        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🎯 Data Science & Machine Learning
-|ลำดับที่| หัวข้อ | ดาวน์โหลด |
+|Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|1|   Numpy        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|2|   Pandas       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|3|   Matplotlib       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg)|   Numpy        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg)|   Pandas       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg)|   Matplotlib       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🏜 Image Processing
 |ลำดับที่| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|1|   OpenCV        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg)|   OpenCV        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🤖 Tools and Utilities 
 |ลำดับที่| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|1|   Git & GitHub        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|2|   Postman       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|3|   Firebase       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|4|   JSON       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg)|   Git & GitHub        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg)|   Postman       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg)|   Firebase       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg)|   JSON       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🎁 ข้อมูลสิทธิพิเศษเพิ่มเติมสำหรับสมาชิกช่อง Youtube
 หลังจากที่ท่านสมัครเป็นสมาชิกช่อง [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial) ผ่านช่องทาง Youtube ใน **ระดับ FanClub ขึ้นไป** แล้ว 
