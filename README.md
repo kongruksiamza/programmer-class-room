@@ -38,16 +38,16 @@
 |![image](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|   เขียนโปรแกรมภาษา Python (อัปเดตล่าสุด)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
   
 ## 🐱 Web Development (Front-end)
-|ลำดับที่| หัวข้อ | ดาวน์โหลด |
+|Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|1|   HTML5        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|2|   CSS3       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|3|   JavaScript       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|4|   JavaScript ES6 (ECMAScript 6)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|5|   React 17       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|6|   Vue.js       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|7|   Bootstrap 5       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|8|   Tailwind CSS       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)|   HTML5        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)|   CSS3       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)|   JavaScript       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)|   JavaScript ES6 (ECMAScript 6)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)|   React 17       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg)|   Vue.js       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg)|   Bootstrap 5       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg)|   Tailwind CSS       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🧲 Web Development (Back-end)
 |ลำดับที่| หัวข้อ | ดาวน์โหลด |
