@@ -50,14 +50,14 @@
 |![image](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg)|   Tailwind CSS       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🧲 Web Development (Back-end)
-|ลำดับที่| หัวข้อ | ดาวน์โหลด |
+|Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|1|   Node.js        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|2|   PHP       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|3|   Laravel Framework 8.x       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|4|   Django Framework 4.x       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|5|   ASP.NET Core MVC (.NET7)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|6|   Flask (Micro Web Framework)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg)|   Node.js        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg)|   PHP       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg)|   Laravel Framework 8.x       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg)|   Django Framework 4.x       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg)|   ASP.NET Core MVC (.NET7)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg)|   Flask (Micro Web Framework)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🔍 Web Development (Framework)
 |ลำดับที่| หัวข้อ | ดาวน์โหลด |
