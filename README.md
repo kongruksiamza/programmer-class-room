@@ -97,12 +97,12 @@
 |![image](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg)|   Matplotlib       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🏜 Image Processing
-|ลำดับที่| หัวข้อ | ดาวน์โหลด |
+|Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg)|   OpenCV        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🤖 Tools and Utilities 
-|ลำดับที่| หัวข้อ | ดาวน์โหลด |
+|Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg)|   Git & GitHub        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg)|   Postman       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
