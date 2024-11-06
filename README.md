@@ -61,32 +61,33 @@
 |![image](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg)|   Flask (Micro Web Framework)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🔍 Web Development (Framework)
-|ลำดับที่| หัวข้อ | ดาวน์โหลด |
+|Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|1|   Next.js (React Web Framework)        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|2|   Nuxt.js (Vue.js Framework)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg)|   Next.js (React Web Framework)        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg)|   Nuxt.js (Vue.js Framework)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 👒 Database
-|ลำดับที่| หัวข้อ | ดาวน์โหลด |
+|Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|1|   MongoDB        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg)|   MongoDB        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## ⚔ Game Development
-|ลำดับที่| หัวข้อ | ดาวน์โหลด |
+|Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|1|   Unity 3D & 2D        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|2|   Unreal Engine 5       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|3|   Pygame       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-  
+|![image](https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg)|   Unity 3D & 2D        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg)|   Unreal Engine 5       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|   สร้างเกมด้วย Python & Pygame       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+
+
 ## 📱 Mobile Development
-|ลำดับที่| หัวข้อ | ดาวน์โหลด |
+|Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|1|   Flutter & Dart        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg)|   Flutter & Dart        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🏄 Data Structure & Algorithm
-|ลำดับที่| หัวข้อ | ดาวน์โหลด |
+|Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|1|   โครงสร้างข้อมูลและอัลกอริทึมด้วยภาษา JavaScript        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)|   โครงสร้างข้อมูลและอัลกอริทึมด้วยภาษา JavaScript        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🎯 Data Science & Machine Learning
 |ลำดับที่| หัวข้อ | ดาวน์โหลด |
