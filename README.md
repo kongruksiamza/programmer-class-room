@@ -36,6 +36,7 @@
 |![image](https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg)|   เขียนโปรแกรมภาษา Go       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg)|   เขียนโปรแกรมภาษา Kotlin       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|   เขียนโปรแกรมภาษา Python (อัปเดตล่าสุด)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg)|   TypeScript (JavaScript With Syntax For Types)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
   
 ## 🐱 Web Development (Front-end)
 |Icons| หัวข้อ | ดาวน์โหลด |
@@ -64,7 +65,6 @@
 |:----:|:------------------------:|:----:|
 |1|   Next.js (React Web Framework)        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |2|   Nuxt.js (Vue.js Framework)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|3|   TypeScript (JavaScript With Syntax For Types)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 👒 Database
 |ลำดับที่| หัวข้อ | ดาวน์โหลด |
