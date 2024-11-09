@@ -21,73 +21,73 @@
 ## 🔏 Blockchain & Smart Contract
 |Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|   Blockchain (Python)        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg)|   Smart Contract & Solidity       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=python)|   Blockchain (Python)        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=solidity)|   Smart Contract & Solidity       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
   
 ## 💻 Programming
 |Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)|   เขียนโปรแกรมภาษา Java        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)|   เขียนโปรแกรมภาษา C#       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg)|   เขียนโปรแกรมภาษา C++       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|   เขียนโปรแกรมเชิงวัตถุด้วยภาษา Python (OOP)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)|   เขียนโปรแกรมเชิงวัตถุด้วยภาษา Java (OOP)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)|   เขียนโปรแกรมเชิงวัตถุด้วย JavaScript (OOP)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg)|   เขียนโปรแกรมภาษา Go       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg)|   เขียนโปรแกรมภาษา Kotlin       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|   เขียนโปรแกรมภาษา Python (อัปเดตล่าสุด)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg)|   TypeScript (JavaScript With Syntax For Types)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=java)|   เขียนโปรแกรมภาษา Java        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=cs)|   เขียนโปรแกรมภาษา C#       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=cpp)|   เขียนโปรแกรมภาษา C++       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=python)|   เขียนโปรแกรมเชิงวัตถุด้วยภาษา Python (OOP)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=java)|   เขียนโปรแกรมเชิงวัตถุด้วยภาษา Java (OOP)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=js)|   เขียนโปรแกรมเชิงวัตถุด้วย JavaScript (OOP)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=go)|   เขียนโปรแกรมภาษา Go       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=kotlin)|   เขียนโปรแกรมภาษา Kotlin       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=python)|   เขียนโปรแกรมภาษา Python (อัปเดตล่าสุด)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=ts)|   TypeScript (JavaScript With Syntax For Types)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
   
 ## 🐱 Web Development (Front-end)
 |Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)|   HTML5        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)|   CSS3       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)|   JavaScript       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)|   JavaScript ES6 (ECMAScript 6)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)|   React 17       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg)|   Vue.js       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg)|   Bootstrap 5       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg)|   Tailwind CSS       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=html)|   HTML5        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=css)|   CSS3       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=js)|   JavaScript       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=js)|   JavaScript ES6 (ECMAScript 6)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=react)|   React 17       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=vue)|   Vue.js       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=bootstrap)|   Bootstrap 5       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=tailwind)|   Tailwind CSS       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🧲 Web Development (Back-end)
 |Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg)|   Node.js        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg)|   PHP       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg)|   Laravel Framework 8.x       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg)|   Django Framework 4.x       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg)|   ASP.NET Core MVC (.NET7)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg)|   Flask (Micro Web Framework)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=nodejs)|   Node.js        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=php)|   PHP       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=laravel)|   Laravel Framework 8.x       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=django)|   Django Framework 4.x       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=dotnet)|   ASP.NET Core MVC (.NET7)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=flask)|   Flask (Micro Web Framework)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🔍 Web Development (Framework)
 |Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg)|   Next.js (React Web Framework)        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg)|   Nuxt.js (Vue.js Framework)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=nextjs)|   Next.js (React Web Framework)        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=nuxtjs)|   Nuxt.js (Vue.js Framework)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 👒 Database
 |Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg)|   MongoDB        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=mongodb)|   MongoDB        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## ⚔ Game Development
 |Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg)|   Unity 3D & 2D        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg)|   Unreal Engine 5       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|   สร้างเกมด้วย Python & Pygame       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=unity)|   Unity 3D & 2D        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=unreal)|   Unreal Engine 5       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=python)|   สร้างเกมด้วย Python & Pygame       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 
 ## 📱 Mobile Development
 |Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg)|   Flutter & Dart        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=flutter)|   Flutter & Dart        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🏄 Data Structure & Algorithm
 |Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)|   โครงสร้างข้อมูลและอัลกอริทึมด้วยภาษา JavaScript        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=js)|   โครงสร้างข้อมูลและอัลกอริทึมด้วยภาษา JavaScript        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🎯 Data Science & Machine Learning
 |Icons| หัวข้อ | ดาวน์โหลด |
@@ -99,14 +99,14 @@
 ## 🏜 Image Processing
 |Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg)|   OpenCV        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=opencv)|   OpenCV        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🤖 Tools and Utilities 
 |Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg)|   Git & GitHub        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg)|   Postman       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg)|   Firebase       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=git)|   Git & GitHub        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=postman)|   Postman       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=firebase)|   Firebase       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg)|   JSON       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🎁 ข้อมูลสิทธิพิเศษเพิ่มเติมสำหรับสมาชิกช่อง Youtube
