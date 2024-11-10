@@ -133,8 +133,8 @@
 |Facebook **(Supporters)**|[ดูรายละเอียด](https://www.facebook.com/help/203354304659155/?helpref=uf_share)|
 
 ## Creative Commons licenses | CC BY-NC 
-*©︎ ลิขสิทธิ์โดย __"ก้องรักสยาม"__ เจ้าของเพจ KongRuksiam Studio*
-</br>
+*©︎ ลิขสิทธิ์โดย __"ก้องรักสยาม"__ เจ้าของเพจ [KongRuksiam Studio](https://www.facebook.com/KongRuksiamTutorial)*
+<hr>
 ![image](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)
 - BY : สามารถนำไปใช้ในสื่อการเรียนการสอนได้ โดยระบุแหล่งที่มาของเอกสาร
 - NC : ห้ามนำไปใช้ในเชิงพาณิชย์
