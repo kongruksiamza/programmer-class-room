@@ -26,13 +26,13 @@
 |Facebook **(Supporters)**|[เข้ารับคีย์ถอดรหัส](https://www.facebook.com/KongRuksiamTutorial/posts/639844884909083)|
 
 ## 🔏 Blockchain & Smart Contract
-|Icons| หัวข้อ | ดาวน์โหลด |
+|Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://skillicons.dev/icons?i=python)|   Blockchain (Python)        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://skillicons.dev/icons?i=solidity)|   Smart Contract & Solidity       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
   
 ## 💻 Programming
-|Icons| หัวข้อ | ดาวน์โหลด |
+|Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://skillicons.dev/icons?i=java)|   เขียนโปรแกรมภาษา Java        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://skillicons.dev/icons?i=cs)|   เขียนโปรแกรมภาษา C#       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
@@ -46,7 +46,7 @@
 |![image](https://skillicons.dev/icons?i=ts)|   TypeScript (JavaScript With Syntax For Types)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
   
 ## 🐱 Web Development (Front-end)
-|Icons| หัวข้อ | ดาวน์โหลด |
+|Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://skillicons.dev/icons?i=html)|   HTML5        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://skillicons.dev/icons?i=css)|   CSS3       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
@@ -58,7 +58,7 @@
 |![image](https://skillicons.dev/icons?i=tailwind)|   Tailwind CSS       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🧲 Web Development (Back-end)
-|Icons| หัวข้อ | ดาวน์โหลด |
+|Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://skillicons.dev/icons?i=nodejs)|   Node.js        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://skillicons.dev/icons?i=php)|   PHP       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
@@ -68,18 +68,18 @@
 |![image](https://skillicons.dev/icons?i=flask)|   Flask (Micro Web Framework)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🔍 Web Development (Framework)
-|Icons| หัวข้อ | ดาวน์โหลด |
+|Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://skillicons.dev/icons?i=nextjs)|   Next.js (React Web Framework)        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://skillicons.dev/icons?i=nuxtjs)|   Nuxt.js (Vue.js Framework)       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 👒 Database
-|Icons| หัวข้อ | ดาวน์โหลด |
+|Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://skillicons.dev/icons?i=mongodb)|   MongoDB        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## ⚔ Game Development
-|Icons| หัวข้อ | ดาวน์โหลด |
+|Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://skillicons.dev/icons?i=unity)|   Unity 3D & 2D        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://skillicons.dev/icons?i=unreal)|   Unreal Engine 5       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
@@ -87,29 +87,29 @@
 
 
 ## 📱 Mobile Development
-|Icons| หัวข้อ | ดาวน์โหลด |
+|Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://skillicons.dev/icons?i=flutter)|   Flutter & Dart        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🏄 Data Structure & Algorithm
-|Icons| หัวข้อ | ดาวน์โหลด |
+|Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://skillicons.dev/icons?i=js)|   โครงสร้างข้อมูลและอัลกอริทึมด้วยภาษา JavaScript        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🎯 Data Science & Machine Learning
-|Icons| หัวข้อ | ดาวน์โหลด |
+|Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg)|   Numpy        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg)|   Pandas       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg)|   Matplotlib       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🏜 Image Processing
-|Icons| หัวข้อ | ดาวน์โหลด |
+|Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://skillicons.dev/icons?i=opencv)|   OpenCV        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🤖 Tools and Utilities 
-|Icons| หัวข้อ | ดาวน์โหลด |
+|Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://skillicons.dev/icons?i=git)|   Git & GitHub        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://skillicons.dev/icons?i=postman)|   Postman       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
