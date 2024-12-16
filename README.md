@@ -115,6 +115,7 @@
 |![image](https://skillicons.dev/icons?i=postman)|   Postman       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://skillicons.dev/icons?i=firebase)|   Firebase       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg)|   JSON       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://skillicons.dev/icons?i=vscode)|   Visual Studio Code       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🎁 ข้อมูลสิทธิพิเศษเพิ่มเติมสำหรับสมาชิกช่อง Youtube
 หลังจากที่ท่านสมัครเป็นสมาชิกช่อง [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial) ผ่านช่องทาง Youtube ใน **ระดับ FanClub ขึ้นไป** แล้ว 
