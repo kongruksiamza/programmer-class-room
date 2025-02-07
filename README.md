@@ -91,7 +91,7 @@
 |:----:|:------------------------:|:----:|
 |![image](https://skillicons.dev/icons?i=flutter)|   Flutter & Dart        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
-## 🏄 Data Structure & Algorithm
+## 💻 Data Structure & Algorithm
 |Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://skillicons.dev/icons?i=js)|   โครงสร้างข้อมูลและอัลกอริทึมด้วยภาษา JavaScript        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
