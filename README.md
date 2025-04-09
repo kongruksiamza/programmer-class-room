@@ -132,6 +132,7 @@
 |![image](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg)|   Numpy        | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg)|   Pandas       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg)|   Matplotlib       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
+|![image](https://github.com/kongruksiamza/ebook-for-education/blob/main/assets/langchain25.svg)|   LangChain       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 |![image](https://github.com/kongruksiamza/ebook-for-education/blob/main/assets/ChatGPT50.svg)|   Generative AI & Prompt Engineering       | [ดาวน์โหลด](https://mega.nz/folder/rGg0USIa) |
 
 ## 🤖 Image Processing
