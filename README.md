@@ -83,6 +83,7 @@
 |![image](https://skillicons.dev/icons?i=css)|   CSS3       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 |![image](https://skillicons.dev/icons?i=js)|   JavaScript       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 |![image](https://skillicons.dev/icons?i=js)|   JavaScript ES6 (ECMAScript 6)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=angular)|   Angular       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 |![image](https://skillicons.dev/icons?i=react)|   React 17.x       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 |![image](https://skillicons.dev/icons?i=react&theme=light)|   React 19.x       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 |![image](https://skillicons.dev/icons?i=vue)|   Vue.js       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
