@@ -79,9 +79,9 @@
 ## 🎓 Web Development (Front-end)
 |Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://skillicons.dev/icons?i=html)|   HTML5        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=css)|   CSS3       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=js)|   JavaScript       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=html)|   HTML5 (ฉบับปี 2020)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=css)|   CSS3 (ฉบับปี 2020)      | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=js)|   JavaScript (ฉบับปี 2020)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 |![image](https://skillicons.dev/icons?i=js)|   JavaScript ES6 (ECMAScript 6)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 |![image](https://skillicons.dev/icons?i=angular)|   Angular       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 |![image](https://skillicons.dev/icons?i=react)|   React 17.x       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
