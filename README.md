@@ -128,7 +128,7 @@
 |![image](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg)|   Pandas       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 |![image](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg)|   Matplotlib       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 |![image](https://skillicons.dev/icons?i=opencv)|   OpenCV        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://github.com/kongruksiamza/ebook-for-education/blob/main/assets/langchain25-ud.svg)|   LangChain       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://github.com/kongruksiamza/ebook-for-education/raw/main/assets/chat.png)|   LangChain       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 |![image](https://github.com/kongruksiamza/ebook-for-education/blob/main/assets/ChatGPT50.svg)|   Generative AI & Prompt Engineering       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 
 ## 👨‍💻 Tools & Utilities | Database
