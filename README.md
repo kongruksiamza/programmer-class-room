@@ -112,7 +112,7 @@
 |:----:|:------------------------:|:----:|
 |![image](https://skillicons.dev/icons?i=unity)|   [Unity 3D & 2D](https://www.youtube.com/playlist?list=PLltVQYLz1BMD6PnzJ9f9xQuNPZsn3Bygh)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 |![image](https://skillicons.dev/icons?i=unreal)|   [Unreal Engine 5](https://www.youtube.com/playlist?list=PLltVQYLz1BMA1PqviW_cnkhQV6KrU5ztt)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=python)|   [สร้างเกมด้วย Python & Pygame](https://www.youtube.com/playlist?list=PLltVQYLz1BMChq8HEmg28yxDEaxk3DVaa)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=python)|   [Python & Pygame](https://www.youtube.com/playlist?list=PLltVQYLz1BMChq8HEmg28yxDEaxk3DVaa)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 
 
 ## 📱 Mobile Development
