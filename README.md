@@ -58,23 +58,23 @@
 ## 🔏 Blockchain & Smart Contract
 |Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://skillicons.dev/icons?i=python)|   Blockchain (Python)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=solidity)|   Smart Contract & Solidity       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=python)|   [Blockchain (Python)](https://www.youtube.com/playlist?list=PLltVQYLz1BMCGqjUEBHlbXyl-Ks0OUGBQ)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=solidity)|   [Smart Contract & Solidity](https://www.youtube.com/playlist?list=PLltVQYLz1BMCf5LzQFDoc_DV8zzLhrgXZ)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
   
 ## 💻 Programming
 |Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://skillicons.dev/icons?i=java)|   เขียนโปรแกรมภาษา Java        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=cs)|   เขียนโปรแกรมภาษา C#       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=cpp)|   เขียนโปรแกรมภาษา C++       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=python)|   เขียนโปรแกรมเชิงวัตถุด้วยภาษา Python (OOP)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=java)|   เขียนโปรแกรมเชิงวัตถุด้วยภาษา Java (OOP)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=js)|   เขียนโปรแกรมเชิงวัตถุด้วย JavaScript (OOP)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=go)|   เขียนโปรแกรมภาษา Go       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=kotlin)|   เขียนโปรแกรมภาษา Kotlin       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=python)|   เขียนโปรแกรมภาษา Python (อัปเดตล่าสุด)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=ts)|   TypeScript (JavaScript With Syntax For Types)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=js)|   โครงสร้างข้อมูลและอัลกอริทึมด้วยภาษา JavaScript        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=java)|   [เขียนโปรแกรมภาษา Java](https://www.youtube.com/playlist?list=PLltVQYLz1BMBDmX6D4L7R4NYshN9ingtY)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=cs)|   [เขียนโปรแกรมภาษา C#](https://www.youtube.com/playlist?list=PLltVQYLz1BMAq2fsXLKzGS1eFNxl0-z0I)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=cpp)|   [เขียนโปรแกรมภาษา C++](https://www.youtube.com/playlist?list=PLltVQYLz1BMCKyh_T8R5-Tig78zZrNLst)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=python)|  [เขียนโปรแกรมเชิงวัตถุด้วยภาษา Python (OOP)](https://www.youtube.com/playlist?list=PLltVQYLz1BMBGWAaxQYa42rdxfeOlVBwn)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=java)|   [เขียนโปรแกรมเชิงวัตถุด้วยภาษา Java (OOP)](https://www.youtube.com/playlist?list=PLltVQYLz1BMCLhBh_3RKlgEq7Cc6fdvOw)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=js)|   [เขียนโปรแกรมเชิงวัตถุด้วย JavaScript (OOP)](https://www.youtube.com/playlist?list=PLltVQYLz1BMAjDAsoGgvdxZ1Oj32qLACd)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=go)|   [เขียนโปรแกรมภาษา Go](https://www.youtube.com/playlist?list=PLltVQYLz1BMBMBhMu1-XztADypuw-DmkQ)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=kotlin)|   [เขียนโปรแกรมภาษา Kotlin](https://www.youtube.com/playlist?list=PLltVQYLz1BMAYbOAoAXXKMuIjBAlQjSIu)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=python)|   [เขียนโปรแกรมภาษา Python (อัปเดตล่าสุด)](https://www.youtube.com/playlist?list=PLltVQYLz1BMBhrgrqQG6YYd5oIF_Mfs0U)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=ts)|   [TypeScript (JavaScript With Syntax For Types)](https://www.youtube.com/playlist?list=PLltVQYLz1BMDQoU7BpXDXvic4yQoLqYO4)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=js)|   [โครงสร้างข้อมูลและอัลกอริทึมด้วยภาษา JavaScript](https://www.youtube.com/playlist?list=PLltVQYLz1BMB8LAm32zWligZKmCXaOzuZ)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
   
 ## 🎓 Web Development (Front-end)
 |Course| หัวข้อ | ดาวน์โหลด |
