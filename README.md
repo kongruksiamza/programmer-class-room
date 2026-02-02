@@ -124,7 +124,7 @@
 ## 🤖 Data Science & AI | Image Processing
 |Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg)|   [Numpy](https://www.youtube.com/playlist?list=PLltVQYLz1BMA-AN7UzcPOu_C74pdV2osq)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg)|   [Numpy](https://www.youtube.com/playlist?list=PLltVQYLz1BMDuwbIF2Js9qu2sZmz7C4kF)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 |![image](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg)|   [Pandas](https://www.youtube.com/playlist?list=PLltVQYLz1BMBioQ9M3V48POuUglPZu8hT)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 |![image](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg)|   [Matplotlib](https://www.youtube.com/playlist?list=PLltVQYLz1BMBMMar23TR708kD25PCZyam)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 |![image](https://skillicons.dev/icons?i=opencv)|   [OpenCV](https://www.youtube.com/playlist?list=PLltVQYLz1BMAccyALg5VLlP66YS6lSxfv)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
