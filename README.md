@@ -79,57 +79,57 @@
 ## 🎓 Web Development (Front-end)
 |Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://skillicons.dev/icons?i=html)|   HTML5 (ฉบับปรับปรุง 2020)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=css)|   CSS3 (ฉบับปรับปรุง 2020)      | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=js)|   JavaScript (ฉบับปรับปรุง 2020)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=js)|   JavaScript ES6 (ECMAScript 6)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=angular)|   Angular       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=react)|   React 17.x       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=react&theme=light)|   React 19.x       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=ts&theme=light)|   React & TypeScript      | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=vue)|   Vue.js       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=bootstrap)|   Bootstrap 5       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=tailwind)|   Tailwind CSS       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=html)|   [HTML5 (ฉบับปรับปรุง 2020)](https://www.youtube.com/playlist?list=PLltVQYLz1BMDf-N2ZmyJKEv4VlpM_9m67)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=css)|   [CSS3 (ฉบับปรับปรุง 2020)](https://www.youtube.com/playlist?list=PLltVQYLz1BMBeWsNwB06VT3t8m5575qCP)      | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=js)|   [JavaScript (ฉบับปรับปรุง 2020)](https://www.youtube.com/playlist?list=PLltVQYLz1BMDsB7SrMh8x6uDTfl7LdNlP)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=js)|   [JavaScript ES6 (ECMAScript 6)](https://www.youtube.com/playlist?list=PLltVQYLz1BMDsB7SrMh8x6uDTfl7LdNlP)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=angular)|   [Angular](https://www.youtube.com/playlist?list=PLltVQYLz1BMBVUmfONUmrBhaDLrzd8n4V)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=react)|   [React 17.x](https://www.youtube.com/playlist?list=PLltVQYLz1BMAdESvJff1elnHXpETCmnOt)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=react&theme=light)|  [React 19.x	](https://www.youtube.com/playlist?list=PLltVQYLz1BMAzrRkY0fSADXqcUtSf1zRN)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=ts&theme=light)|   [React & TypeScript](https://www.youtube.com/playlist?list=PLltVQYLz1BMAZlkl9SLHleRROJcS4UZjV)      | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=vue)|   [Vue.js](https://www.youtube.com/playlist?list=PLltVQYLz1BMChEqnYgn9PoTnbOXdJX7Wc)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=bootstrap)|   [Bootstrap 5](https://www.youtube.com/playlist?list=PLltVQYLz1BMDNdxqTqiOm-D2CN3J2PF-F)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=tailwind)|   [Tailwind CSS](https://www.youtube.com/playlist?list=PLltVQYLz1BMCyYJ_dzeaoOTlIdVweyxRt)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 
 ## 🏆 Web Development (Back-end)
 |Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://skillicons.dev/icons?i=nodejs)|   Node.js        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=php)|   PHP       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=laravel)|   Laravel Framework 8.x       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=django)|   Django Framework 4.x       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=dotnet)|   ASP.NET Core MVC (.NET7)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=flask)|   Flask (Micro Web Framework)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=nodejs)|   [Node.js](https://www.youtube.com/playlist?list=PLltVQYLz1BMAl_u_sDhCBpetUbPmiHDQY)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=php)|   [PHP](https://www.youtube.com/playlist?list=PLltVQYLz1BMBDR8m30mLmhlFkKpYoy_f9)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=laravel)|   [Laravel Framework 8.x](https://www.youtube.com/playlist?list=PLltVQYLz1BMCElB-Vtjb79DtlN2jPkHwV)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=django)|   [Django Framework 4.x](https://www.youtube.com/playlist?list=PLltVQYLz1BMBQudRGACG82SEIkb96QhfZ)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=dotnet)|   [ASP.NET Core MVC (.NET7)](https://www.youtube.com/playlist?list=PLltVQYLz1BMCNzBDbX_9u9Kv4Cq8uGNE9)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=flask)|   [Flask (Micro Web Framework)](https://www.youtube.com/playlist?list=PLltVQYLz1BMC34bOBK1Vrt5_VAIQrS9Hm)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 
 ## 🏆 Web Development (Framework)
 |Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://skillicons.dev/icons?i=nextjs)|   Next.js (React Web Framework)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=nuxtjs)|   Nuxt.js (Vue.js Framework)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=nextjs)|   [Next.js (React Web Framework)](https://www.youtube.com/playlist?list=PLltVQYLz1BMA0qaWop5qz5p_vr-To2CUm)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=nuxtjs)|   [Nuxt.js (Vue.js Framework)](https://www.youtube.com/playlist?list=PLltVQYLz1BMD0H234c2kcKv_cSrZaNZJi)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 
 ## 🎮 Game Development
 |Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://skillicons.dev/icons?i=unity)|   Unity 3D & 2D        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=unreal)|   Unreal Engine 5       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=python)|   สร้างเกมด้วย Python & Pygame       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=unity)|   [Unity 3D & 2D](https://www.youtube.com/playlist?list=PLltVQYLz1BMD6PnzJ9f9xQuNPZsn3Bygh)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=unreal)|   [Unreal Engine 5](https://www.youtube.com/playlist?list=PLltVQYLz1BMA1PqviW_cnkhQV6KrU5ztt)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=python)|   [สร้างเกมด้วย Python & Pygame](https://www.youtube.com/watch?v=2-UltIb7k5g&list=PLltVQYLz1BMChq8HEmg28yxDEaxk3DVaa)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 
 
 ## 📱 Mobile Development
 |Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://skillicons.dev/icons?i=flutter)|   Flutter & Dart        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=flutter)|   [Flutter & Dart](https://www.youtube.com/playlist?list=PLltVQYLz1BMBUgyhxZFA31of-EKjazC8G)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 
 
 ## 🤖 Data Science & AI | Image Processing
 |Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg)|   Numpy        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg)|   Pandas       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg)|   Matplotlib       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://skillicons.dev/icons?i=opencv)|   OpenCV        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://github.com/kongruksiamza/ebook-for-education/raw/main/assets/chat.png)|   LangChain       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://github.com/kongruksiamza/ebook-for-education/blob/main/assets/ChatGPT50.svg)|   Generative AI & Prompt Engineering       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg)|   [Numpy](https://www.youtube.com/playlist?list=PLltVQYLz1BMA-AN7UzcPOu_C74pdV2osq)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg)|   [Pandas](https://www.youtube.com/playlist?list=PLltVQYLz1BMBioQ9M3V48POuUglPZu8hT)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg)|   [Matplotlib](https://www.youtube.com/playlist?list=PLltVQYLz1BMBMMar23TR708kD25PCZyam)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://skillicons.dev/icons?i=opencv)|   [OpenCV](https://www.youtube.com/playlist?list=PLltVQYLz1BMAccyALg5VLlP66YS6lSxfv)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://github.com/kongruksiamza/ebook-for-education/raw/main/assets/chat.png)|   [LangChain](https://www.youtube.com/playlist?list=PLltVQYLz1BMBjXI_D6lUev3DCOxPfh_Cw)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://github.com/kongruksiamza/ebook-for-education/blob/main/assets/ChatGPT50.svg)|   [Generative AI & Prompt Engineering](https://www.youtube.com/playlist?list=PLltVQYLz1BMAZyjbmF-5cIH-qO-3-L9Qo)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 
 ## 👨‍💻 Tools & Utilities | Database
 |Course| หัวข้อ | ดาวน์โหลด |
