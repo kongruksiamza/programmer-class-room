@@ -129,7 +129,7 @@
 |![image](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg)|   [Matplotlib](https://www.youtube.com/playlist?list=PLltVQYLz1BMBMMar23TR708kD25PCZyam)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 |![image](https://skillicons.dev/icons?i=opencv)|   [OpenCV](https://www.youtube.com/playlist?list=PLltVQYLz1BMAccyALg5VLlP66YS6lSxfv)        | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 |![image](https://github.com/kongruksiamza/ebook-for-education/raw/main/assets/chat.png)|   [LangChain](https://www.youtube.com/playlist?list=PLltVQYLz1BMBjXI_D6lUev3DCOxPfh_Cw)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
-|![image](https://github.com/kongruksiamza/ebook-for-education/blob/main/assets/ChatGPT50.svg)|   [Generative AI & Prompt Engineering](https://www.youtube.com/playlist?list=PLltVQYLz1BMAZyjbmF-5cIH-qO-3-L9Qo)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
+|![image](https://github.com/kongruksiamza/ebook-for-education/blob/686571449b28c87d9a39c9d98901dac5c3f5dca6/assets/sparklex48.png)|   [Generative AI & Prompt Engineering](https://www.youtube.com/playlist?list=PLltVQYLz1BMAZyjbmF-5cIH-qO-3-L9Qo)       | [ดาวน์โหลด](https://mega.nz/folder/zOZB3JZY) |
 
 ## 👨‍💻 Tools & Utilities | Database
 |Course| หัวข้อ | ดาวน์โหลด |
