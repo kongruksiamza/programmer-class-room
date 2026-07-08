@@ -33,7 +33,7 @@
 **เปิดให้ดาวน์โหลดเฉพาะสมาชิกช่อง Youtube หรือ สมาชิก Facebook เท่านั้น** โดยใช้ **คีย์ถอดรหัสลับ (Decryption Key)** 
 ที่ประกาศในแท็บชุมชน Youtube และแท็บ Supporters Facebook เพื่อปลดล็อคและเข้าถึงข้อมูลเอกสารทั้งหมด
 
-![image](https://github.com/kongruksiamza/programmer-class-room/blob/main/poster-update.png?raw=true)
+![image](https://github.com/kongruksiamza/programmer-class-room/blob/main/poster-git-hub-official.png)
 
 ## สารบัญเนื้อหา
 - [ช่องทางการสมัครสมาชิก](#-1สมัครสมาชิกเพื่อรับคีย์ถอดรหัส-เลือกเพียง-1-ช่องทาง)
@@ -46,8 +46,8 @@
 **สำหรับท่านที่ต้องการดาวน์โหลดเฉพาะเอกสารประกอบการสอนแนะนำให้ท่านสมัครเป็นสมาชิก Facebook (Supporters)*
 |ช่องทางการสมัคร| ราคา | ข้อมูลสิทธิพิเศษ |สมัครสมาชิก |
 |:----:|:------------------------:|:----:|:----:|
-|KongRuksiam Official **(ระดับ FanClub ขึ้นไป)**|  100 บาท / เดือน | คีย์ถอดรหัสลับและดูวิดีโอสำหรับสมาชิก Youtube| [สมัครสมาชิก](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w/join) |
-|Facebook **(Supporters)**|    79 บาท / เดือน       | ได้รับเฉพาะคีย์ถอดรหัสลับ | [สมัครสมาชิก](https://www.facebook.com/KongRuksiamTutorial/subscribe/)|
+|KongRuksiam Official **(ระดับ FanClub ขึ้นไป)**|  200 บาท / เดือน | คีย์ถอดรหัสลับและดูวิดีโอสำหรับสมาชิก Youtube| [สมัครสมาชิก](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w/join) |
+|Facebook **(Supporters)**|    169 บาท / เดือน       | ได้รับเฉพาะคีย์ถอดรหัสลับ | [สมัครสมาชิก](https://www.facebook.com/KongRuksiamTutorial/subscribe/)|
 
 ## 🔑 2.รับคีย์ถอดรหัสจากช่องทางที่ท่านสมัครสมาชิกได้ที่
 |ช่องทางการสมัคร|คีย์ถอดรหัสลับ (Decryption Key)|
